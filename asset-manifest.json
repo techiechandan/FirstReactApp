@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/WordCounterApp/static/css/main.073c9b0a.css",
-    "main.js": "/WordCounterApp/static/js/main.e5f5c767.js",
-    "static/js/787.eb053afd.chunk.js": "/WordCounterApp/static/js/787.eb053afd.chunk.js",
-    "index.html": "/WordCounterApp/index.html",
-    "main.073c9b0a.css.map": "/WordCounterApp/static/css/main.073c9b0a.css.map",
-    "main.e5f5c767.js.map": "/WordCounterApp/static/js/main.e5f5c767.js.map",
-    "787.eb053afd.chunk.js.map": "/WordCounterApp/static/js/787.eb053afd.chunk.js.map"
+    "main.css": "/FirstReactApp/static/css/main.073c9b0a.css",
+    "main.js": "/FirstReactApp/static/js/main.36aff24d.js",
+    "static/js/787.eb053afd.chunk.js": "/FirstReactApp/static/js/787.eb053afd.chunk.js",
+    "index.html": "/FirstReactApp/index.html",
+    "main.073c9b0a.css.map": "/FirstReactApp/static/css/main.073c9b0a.css.map",
+    "main.36aff24d.js.map": "/FirstReactApp/static/js/main.36aff24d.js.map",
+    "787.eb053afd.chunk.js.map": "/FirstReactApp/static/js/787.eb053afd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e5f5c767.js"
+    "static/js/main.36aff24d.js"
   ]
 }
